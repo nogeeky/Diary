@@ -2,7 +2,13 @@ https://www.markdownguide.org/extended-syntax/
 List of syntax for MD files.
 
 ### List of pages on Git
-[Four Card HTML training](https://calvin087.github.io/front-end-training-fc2/)
+[Front-end / Four Card](https://calvin087.github.io/front-end-training-fc2/)
+[JS Slider practice](https://calvin087.github.io/slider/)
+[JS counter display practice](https://calvin087.github.io/counter/)
+[Last message received](https://calvin087.github.io/last-received/)
+["Investment Calculator"](https://calvin087.github.io/investment-calculator/)
+[Fight club quotes](https://calvin087.github.io/quote-gen/)
+[Random Anime wallpaper changer](https://calvin087.github.io/background-color/)
 
 ### 2020-04-02 20:28:39
 
