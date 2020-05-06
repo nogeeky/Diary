@@ -1,6 +1,9 @@
 https://www.markdownguide.org/extended-syntax/
 List of syntax for MD files.
 
+### List of pages on Git
+[Four Card HTML training](https://calvin087.github.io/front-end-training-fc2/)
+
 ### 2020-04-02 20:28:39
 
 So just spent the best part of an hour working through a newbie problem. Don't mind so much because with a shitty solution I managed to get it to work. Been a day or two since i've worked on a problem. this is the stage that will really test me. Now is the time to prove that I can work through these problems and get job ready. I'm still months away but this feels like i'm developing mentally faster than with the JS courses that I've tried. I feel this will make me a better JS developer too.
