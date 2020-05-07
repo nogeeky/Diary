@@ -2,6 +2,7 @@ https://www.markdownguide.org/extended-syntax/
 List of syntax for MD files.
 
 ### List of pages on Git
+[Fashion landing page](https://calvin087.github.io/front-end-training-fa1/)
 [Front-end / Four Card](https://calvin087.github.io/front-end-training-fc2/)
 [JS Slider practice](https://calvin087.github.io/slider/)
 [JS counter display practice](https://calvin087.github.io/counter/)
