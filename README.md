@@ -11,6 +11,11 @@ List of syntax for MD files.
 [Fight club quotes](https://calvin087.github.io/quote-gen/)
 [Random Anime wallpaper changer](https://calvin087.github.io/background-color/)
 
+### 2020-05-09 14:48:57
+Started the Scrimba Course on react, it's actually quite interesting and for some Reason It's making more sense than the Udemy course. I have more comfort trying to complete the challenges.
+
+Also instead of believing that I understand the situation, I'm repeating the lessons over and over until I feel like I know why I'm making certain actions.
+
 ### 2020-04-02 20:28:39
 
 So just spent the best part of an hour working through a newbie problem. Don't mind so much because with a shitty solution I managed to get it to work. Been a day or two since i've worked on a problem. this is the stage that will really test me. Now is the time to prove that I can work through these problems and get job ready. I'm still months away but this feels like i'm developing mentally faster than with the JS courses that I've tried. I feel this will make me a better JS developer too.
