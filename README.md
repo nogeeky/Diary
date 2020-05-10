@@ -11,6 +11,48 @@ List of syntax for MD files.
 [Fight club quotes](https://calvin087.github.io/quote-gen/)
 [Random Anime wallpaper changer](https://calvin087.github.io/background-color/)
 
+### 2020-05-10 15:27:24
+
+Something I want to remember about API calls in React
+
+```js
+import React, {Component} from "react"
+
+class App extends Component {
+    constructor() {
+        super()
+        this.state = {
+            loading: false,
+            character: {}
+        }
+    }
+    
+    componentDidMount() {
+        this.setState({loading: true})
+        fetch("https://swapi.co/api/people/1")
+            .then(response => response.json())
+            .then(data => {
+                this.setState({
+                    loading: false,
+                    character: data
+                })
+            })
+    }
+    
+    render() {
+        const text = this.state.loading ? "loading..." : this.state.character.name
+        return (
+            <div>
+                <p>{text}</p>
+            </div>
+        )
+    }
+}
+
+export default App
+
+```
+
 ### 2020-05-09 14:48:57
 Started the Scrimba Course on react, it's actually quite interesting and for some Reason It's making more sense than the Udemy course. I have more comfort trying to complete the challenges.
 
