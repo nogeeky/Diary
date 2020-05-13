@@ -11,6 +11,12 @@ List of syntax for MD files.
 [Fight club quotes](https://calvin087.github.io/quote-gen/)
 [Random Anime wallpaper changer](https://calvin087.github.io/background-color/)
 
+### 2020-05-13 07:45:05
+
+Just finished the scrimba course on React. Actually made a lot more sense than the Udemy course i downloaded. Maybe because i Did that app academy ruby walkthrough - all of this stuff made mire sense. I could see and understand where data was going and connecting to each other.
+
+I need to try and make something but i want to first do a quick tutorial on building a crud app. Once i'm able to edit delete route pages with ease i should be able to bang out most typical projects, I hope.
+
 ### 2020-05-10 15:27:24
 
 Something I want to remember about API calls in React
