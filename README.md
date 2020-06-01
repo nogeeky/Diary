@@ -11,6 +11,19 @@ List of syntax for MD files.
 [Fight club quotes](https://calvin087.github.io/quote-gen/)
 [Random Anime wallpaper changer](https://calvin087.github.io/background-color/)
 
+### 2020-06-01 13:24:51
+
+2 hours
+
+React is crazy verbose. Just deploying a single app i had to sit through 2 hours of tutorials on webpack, express etc. I need to look up a faster way of deploying things. Maybe i've become too comfortable with the speed of Wordpress and basic HTML etc.
+
+### 2020-05-23 12:21:23
+
+You REALLY REALLY need to learn how to manipulate using filter() its keeps fucking you up.
+
+Look up #filter()
+to remove things from arrays / 
+
 ### 2020-05-13 07:45:05
 
 Just finished the scrimba course on React. Actually made a lot more sense than the Udemy course i downloaded. Maybe because i Did that app academy ruby walkthrough - all of this stuff made mire sense. I could see and understand where data was going and connecting to each other.
