@@ -2,6 +2,8 @@ https://www.markdownguide.org/extended-syntax/
 List of syntax for MD files.
 
 ### List of pages on Git
+[Expensis CRUD app](https://expensis-app.web.app/)
+[LockDown Decision App](https://lockdown-decision.web.app/)
 [Fashion landing page](https://calvin087.github.io/front-end-training-fa1/)
 [Front-end / Four Card](https://calvin087.github.io/front-end-training-fc2/)
 [JS Slider practice](https://calvin087.github.io/slider/)
