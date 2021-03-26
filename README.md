@@ -1,6 +1,10 @@
 26.02.21
 Only just realised that I can have private repos for free. Thought I had to pay for them so kept personal projects on my local machine. Need to upload all the private things from the old hard drive so they don't get lost or corrupted.
 
+- succesfully copied from local to new private repo. npm install handled it.
+- Copied over firebase settings and uploaded the new copied version and deployed.
+- V 0.0.8 online.
+
 # Computer Science and Programming - Version 4.0
 
 Please read the [FAQ](./faq.md) and note that there are [Tier Project Ideas](./project_ideas.md) to help you select projects.
