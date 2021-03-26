@@ -1,3 +1,6 @@
+26.02.21
+Only just realised that I can have private repos for free. Thought I had to pay for them so kept personal projects on my local machine. Need to upload all the private things from the old hard drive so they don't get lost or corrupted.
+
 # Computer Science and Programming - Version 4.0
 
 Please read the [FAQ](./faq.md) and note that there are [Tier Project Ideas](./project_ideas.md) to help you select projects.
@@ -64,10 +67,10 @@ Both tiers and specializations will require 'Tier Programming Projects', you are
 
 Math will be relevant throughout the guide. Begin it as you start the guide, and incrementally work through it alongside the guide. (You need not finish this before moving to tier 0, or tier 1, but be actively working on it alongside them.)
 
-| Courses                                                       | Status | Evidence |
-| :------------------------------------------------------------ | :----: | :------: |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         |x       | I Hate Math
-| [Algebra II](https://www.khanacademy.org/math/algebra2)       |-       | In Progress
+| Courses                                                       | Status |  Evidence   |
+| :------------------------------------------------------------ | :----: | :---------: |
+| [Algebra I](https://www.khanacademy.org/math/algebra)         |   x    | I Hate Math |
+| [Algebra II](https://www.khanacademy.org/math/algebra2)       |   -    | In Progress |
 | [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |
 | [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |
 
@@ -75,39 +78,40 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 
 A very gentle introduction, complete if feel you would benefit from it, skip if you'd rather dive right into tier 0
 
-| Courses                                                                                                                                                               |   Status   |   Evidence   |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            |X           | Yay!
-| [Intro to HTML/CSS: Making webpage s](https://www.khanacademy.org/computing/computer-programming/html-css)                                                            |X           | Yay!
-| [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |X           | Yay!
-| [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |X           | Almost There!
-| [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |X           | Finished!
-| **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
+| Courses                                                                                                                                                               |   Status   |   Evidence    |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :-----------: |
+| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            |     X      |     Yay!      |
+| [Intro to HTML/CSS: Making webpage s](https://www.khanacademy.org/computing/computer-programming/html-css)                                                            |     X      |     Yay!      |
+| [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |     X      |     Yay!      |
+| [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |     X      | Almost There! |
+| [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |     X      |   Finished!   |
+| **Capstone**                                                                                                                                                          | **Status** | **Evidence**  |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
 
 ### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
 
 Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp.
 
-| Courses                                                                                                                                                               |   Status   |   Evidence   |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
+| Courses | Status | Evidence |
+| :------ | :----: | :------: |
+
 <<<<<<< HEAD
-| Welcome To Coding                                                                                                                                                     |X           |              |
-| Full Stack Online - Intro to Programming                                                                                                                              |X           |              |
-| Full Stack Online - Software Engineering Foundations                                                                                                                  |X           |              |
-| Full Stack Online - Ruby                                                                                                                                              |X           |              |
-| Full Stack Online - SQL                                                                                                                                               |X           |              |
-| Full Stack Online - Rails                                                                                                                                             |            |              |
-| Full Stack Online - JavaScript                                                                                                                                        |X           |              |
-| Full Stack Online - React                                                                                                                                             |X           |[LockDown App](https://lockdown-decision.web.app/)|
-| Full Stack Online - Full Stack Project                                                                                                                                |x           |[CRUD app](https://expensis-app.web.app/)|
-| Full Stack Online - MERN Stack Curriciulum                                                                                                                            |            |              |
-| Full Stack Online - Job Search                                                                                                                                        |            |              |
-| Full Stack Online - Docker                                                                                                                                            |            |              |
-| Full Stack Online - GraphQl                                                                                                                                           |            |              |
-| Full Stack Online - Data Structures and Algorithms                                                                                                                    |            |              |
-| **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
+| Welcome To Coding |X | |
+| Full Stack Online - Intro to Programming |X | |
+| Full Stack Online - Software Engineering Foundations |X | |
+| Full Stack Online - Ruby |X | |
+| Full Stack Online - SQL |X | |
+| Full Stack Online - Rails | | |
+| Full Stack Online - JavaScript |X | |
+| Full Stack Online - React |X |[LockDown App](https://lockdown-decision.web.app/)|
+| Full Stack Online - Full Stack Project |x |[CRUD app](https://expensis-app.web.app/)|
+| Full Stack Online - MERN Stack Curriciulum | | |
+| Full Stack Online - Job Search | | |
+| Full Stack Online - Docker | | |
+| Full Stack Online - GraphQl | | |
+| Full Stack Online - Data Structures and Algorithms | | |
+| **Capstone** | **Status** | **Evidence** |
+| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. | |
 
 ### Tier 1 - Getting Started
 
