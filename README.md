@@ -1,4 +1,4 @@
-26.02.21
+26.03.21
 Only just realised that I can have private repos for free. Thought I had to pay for them so kept personal projects on my local machine. Need to upload all the private things from the old hard drive so they don't get lost or corrupted.
 
 - succesfully copied from local to new private repo. npm install handled it.
