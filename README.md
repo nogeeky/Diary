@@ -1,3 +1,7 @@
+28.03.21
+First pull request to private repo.
+Cloud functions set up to pull finance data and save to firebase [set up here](https://github.com/Calvin087/Diary/blob/master/cloudFunctions-setup.md)
+
 26.03.21
 Only just realised that I can have private repos for free. Thought I had to pay for them so kept personal projects on my local machine. Need to upload all the private things from the old hard drive so they don't get lost or corrupted.
 
