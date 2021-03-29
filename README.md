@@ -1,3 +1,7 @@
+29.03.21
+Pull request got accepted into the app. Feeling good.
+Cloud functions are ready to go for pay day.
+
 28.03.21
 First pull request to private repo.
 Cloud functions set up to pull finance data and save to firebase [set up here](https://github.com/Calvin087/Diary/blob/master/cloudFunctions-setup.md)
