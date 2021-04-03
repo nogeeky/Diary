@@ -1,3 +1,6 @@
+03.04.21
+Finished getting fitbit data with puppeteer. Couldn't use Selenium because cloud functions doesn't support it so had to write everything all over again. Guess that's a part of the thinking before coding. Will my idea be able to work on XYZ before i invest time in it.
+
 29.03.21
 Pull request got accepted into the app. Feeling good.
 Cloud functions are ready to go for pay day.
