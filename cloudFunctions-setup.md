@@ -207,3 +207,11 @@ exports.saveWakaTime = functions.pubsub
     // LOTS OF CODE HERE
   });
 ```
+
+# Notes
+
+Had to change puppeteer function from inside the cloud functions console. Adding a bunch of arguments to run without a problem and also set some defaults incase elements didn't show up for some reason.
+
+NodeJs runtime had to be updated to 14
+
+Memory allocation had to be set to at least 1GB to run.
