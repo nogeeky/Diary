@@ -1,3 +1,13 @@
+16.04.21
+Mongo Compass is a GUI that allows me to interact with the local mongoDB. The main issue was finding the correct bucket to search.
+
+- [Connection Info](https://zellwk.com/blog/local-mongodb/) To connect to your local MongoDB, you set Hostname to localhost and Port to 27017. These values are the default for all local MongoDB connections (unless you changed them).
+- [Querying Data](https://docs.mongodb.com/compass/current/query/filter/)
+- [More Filter answers](https://stackoverflow.com/questions/43525523/searching-by-objectid-on-mongo-compass) and [Here](https://stackoverflow.com/questions/46113376/querying-in-mongodb-compass)
+  - `{_id: ObjectId('numberGoesHere')}`
+  - `You should use regexp for this, i.e. { "Category" : /^BOND.*/ }`
+
+
 03.04.21
 Finished getting fitbit data with puppeteer. Couldn't use Selenium because cloud functions doesn't support it so had to write everything all over again. Guess that's a part of the thinking before coding. Will my idea be able to work on XYZ before i invest time in it.
 
