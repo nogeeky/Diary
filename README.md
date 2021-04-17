@@ -1,3 +1,6 @@
+17.04.21
+Working with Nkowa, start docker, then populate with post man, then start dev, then update compass
+
 16.04.21
 Mongo Compass is a GUI that allows me to interact with the local mongoDB. The main issue was finding the correct bucket to search.
 
